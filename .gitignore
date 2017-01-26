@@ -1,0 +1,4 @@
+checkpoints/*
+data/*
+.ipynb_checkpoints/*
+*.1pgm1
